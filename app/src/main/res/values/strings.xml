@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">UD07CP01</string>
+
+    <!-- Menús -->
+    <string name="menu_recargar">Recargar</string>
+    <string name="menu_limpiar">Limpiar</string>
+    <string name="menu_eliminar">Eliminar</string>
+    <string name="menu_editar">Editar</string>
+
+    <!-- Diálogos y Snackbar -->
+    <string name="dialogo_cerrar">Cerrar</string>
+    <string name="dialogo_aceptar">Aceptar</string>
+    <string name="deshacer">Deshacer</string>
+    <string name="titulo_eliminar_pelicula">Eliminar %1$s</string>
+    <string name="msg_eliminar_pelicula">¿Estás seguro de que quieres eliminar %1$s?</string>
+    <string name="msg_eliminada">Se ha eliminado %1$s</string>
+    <string name="titulo_limpiar">Eliminar todas las películas</string>
+    <string name="msg_limpiar">¿Estás seguro de que quieres eliminar la lista completa?</string>
+    <string name="msg_lista_eliminada">Se ha eliminado la lista completa</string>
+    <string name="msg_editada">Película renombrada a %1$s</string>
+
+    <!-- Detalle -->
+    <string name="cd_poster">Póster de la película</string>
+    <string name="detalle_descripcion">Descripción: %1$s</string>
+    <string name="detalle_anio">Año: %1$d</string>
+    <string name="detalle_duracion">Duración: %1$d minutos</string>
+    <string name="detalle_nacionalidad">Nacionalidad: %1$s</string>
+
+    <!-- Edición -->
+    <string name="titulo_editar">Editar película</string>
+    <string name="editar_hint">Nombre de la película</string>
+    <string name="editar_cambiar">Cambiar</string>
+    <string name="editar_cancelar">Cancelar</string>
+    <string name="editar_vacio">El nombre no puede estar vacío</string>
+</resources>
